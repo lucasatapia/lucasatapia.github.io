@@ -14,3 +14,13 @@
 - **95%** of 20 survey responders said they’d use a feature like this  
 - Added **Add-Exercise** tab to eliminate need for official Whoop API sync  
 - Feedback from **Whoop VP Growth & Sr Staff PM** → invited to upcoming beta
+
+### 🎵 Ad-Supported Music Platform
+
+| ![](images/erd.png) | ![](images/ad-engagement.png) |
+|:--:|:--:|
+| Entity-Relationship Diagram | Piano Tiles Ad Engagement Analytics |
+
+| ![](images/personalized-ads.png) | ![](images/user-data.png) |
+|:--:|:--:|
+| Personalized Ad Matching via SQL | Populated Mock Data in Oracle SQL |
