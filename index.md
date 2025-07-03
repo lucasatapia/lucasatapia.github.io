@@ -24,6 +24,7 @@
 | ![](images/personalized-ads.png) | ![](images/user-data.png) |
 |:--:|:--:|
 | Personalized Ad Matching via SQL | Populated Mock Data in Oracle SQL |
+
 - Engineered a 31-table Oracle schema (3NF) and seeded 384 AI-generated rows spanning artists, songs, albums, ads, and advertisers
 - Wrote analytical queries that monitor users' remaining ad-free minutes, track ad-royalty splits per artist, and log top artists and songs all in < 10s
 - Added gamified “Piano Tiles” mini-game to drive app engagement, allowing users to play in-app tracks to earn ad-free rewards
