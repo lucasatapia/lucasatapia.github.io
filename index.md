@@ -1,13 +1,13 @@
 ### 🏋️‍♂️ Whoop Progression Tracker  
-[▶ Watch 40-second demo](https://youtu.be/nXs7u-w8V4?si=HKV1D8-4P_wBk4)
+[▶ Watch 40-second demo](https://youtu.be/nXs7u-w8V4)
 
-| ![](images/tracker-1week.png) | ![](images/tracker-1month.png) | ![](images/tracker-6month.png) |
+| ![](images/tracker-log.png) | ![](images/tracker-compare.png) | 
+|:--:|:--:|
+| Log Workout | Last-vs-This Compare |
+
+|![](images/tracker-1week.png) | ![](images/tracker-1month.png) | ![](images/tracker-6month.png) |
 |:--:|:--:|:--:|
 | 1-Week | 1-Month | 6-Month |
-
-| ![](images/tracker-compare.png) | ![](images/tracker-log.png) |
-|:--:|:--:|
-| Last-vs-This Compare | Log Workout |
 
 - Built React Native module in **< 3 weeks** (≈ 1,900 LoC)  
 - Validated with 25+ weightlifters _(including non-Whoop users)_; **100%** said they’d use this lightweight tracker  
