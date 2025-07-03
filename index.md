@@ -1,5 +1,5 @@
 ### 🏋️‍♂️ Whoop Progression Tracker  
-[▶ Watch 40-second demo](https://youtu.be/nXs7u-w8V4?si=HKV1D8-4P_wBk4)
+[▶ Watch 40-second demo](https://www.youtube.com/watch?v=nXn7U-w8vI4)
 
 | ![](images/tracker-1week.png) | ![](images/tracker-1month.png) | ![](images/tracker-6month.png) |
 |:--:|:--:|:--:|
