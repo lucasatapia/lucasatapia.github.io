@@ -3,11 +3,11 @@
 
 <table>
   <tr>
-    <td align="center"><img src="images/tracker-log.png" width="220"><br>Log Workout</td>
-    <td align="center"><img src="images/tracker-compare.png" width="220"><br>Last-vs-This Compare</td>
-    <td align="center"><img src="images/tracker-1week.png" width="220"><br>1-Week</td>
-    <td align="center"><img src="images/tracker-1month.png" width="220"><br>1-Month</td>
-    <td align="center"><img src="images/tracker-6month.png" width="220"><br>6-Month</td>
+    <td align="center"><img src="images/tracker-log.png" width="275"><br><strong>Log Workout</strong></td>
+    <td align="center"><img src="images/tracker-compare.png" width="275"><br><strong>Last-vs-This Compare</strong></td>
+    <td align="center"><img src="images/tracker-1week.png" width="275"><br><strong>1-Week</strong></td>
+    <td align="center"><img src="images/tracker-1month.png" width="275"><br><strong>1-Month</strong></td>
+    <td align="center"><img src="images/tracker-6month.png" width="275"><br><strong>6-Month</strong></td>
   </tr>
 </table>
 
