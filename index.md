@@ -5,13 +5,18 @@ title: Lucas Tapia - Portfolio
 ### 🏋️‍♂️ Whoop Progression Tracker  
 [▶ Watch 40-second demo](https://www.youtube.com/watch?v=nXn7U-w8vI4)
 
-| ![](images/tracker-log.png) | ![](images/tracker-compare.png) | 
+| <img src="images/tracker-log.png" width="600" alt="Log Workout"> | <img src="images/tracker-compare.png" width="600" alt="Last-vs-This Compare"> |
 |:--:|:--:|
 | Log Workout | Last-vs-This Compare |
 
-| <img src="images/tracker-1week.png" width="400"> | <img src="images/tracker-1month.png" width="400"> | <img src="images/tracker-6month.png" width="400"> |
-|:--:|:--:|:--:|
-| 1-Week | 1-Month | 6-Month |
+| <img src="images/tracker-1week.png" width="600" alt="1-Week Progress"> | <img src="images/tracker-1month.png" width="600" alt="1-Month Progress"> |
+|:--:|:--:|
+| 1-Week | 1-Month |
+
+| <img src="images/tracker-6month.png" width="600" alt="6-Month Progress"> |
+|:--:|
+| 6-Month |
+
 
 
 - Built React Native module in **< 3 weeks** (≈ 1,900 LoC)  
