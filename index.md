@@ -1,3 +1,5 @@
+# Lucas Tapia – Portfolio
+
 ### 🏋️‍♂️ Whoop Progression Tracker  
 [▶ Watch 40-second demo](https://www.youtube.com/watch?v=nXn7U-w8vI4)
 
