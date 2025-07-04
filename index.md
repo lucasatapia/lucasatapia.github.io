@@ -13,18 +13,11 @@ title: Lucas Tapia - Portfolio
 |:--:|:--:|
 | 1-Week | 1-Month |
 
-<div style="text-align: center;">
-  <table style="margin: 0 auto;">
-    <tr>
-      <td>
-        <img src="images/tracker-6month.png" width="600" alt="6-Month Progress"><br>
-        6-Month
-      </td>
-    </tr>
-  </table>
+|   | ![](images/tracker-6month.png){width=600px} |   |
+|:-:|:--------------------------------------------:|:-:|
+|   | **6-Month Progress**                          |   |
+
 </div>
-
-
 
 
 
