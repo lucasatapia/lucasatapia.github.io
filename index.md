@@ -15,7 +15,7 @@ title: Lucas Tapia - Portfolio
 
 |   | ![](images/tracker-6month.png) |   |
 |:-:|:--------------------------------------------:|:-:|
-|   | **6-Month Progress**                          |   |
+|   | **6-Month**                          |   |
 
 </div>
 
