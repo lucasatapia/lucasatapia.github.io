@@ -3,7 +3,7 @@ title: Lucas Tapia - Portfolio
 ---
 
 ### 🏋️‍♂️ Whoop Progression Tracker  
-[▶ Watch 40-second demo](https://www.youtube.com/watch?v=nXn7U-w8vI4)
+[▶ Watch 80-second demo](https://www.youtube.com/watch?v=nXn7U-w8vI4)
 
 | <img src="images/tracker-log.png" width="600" alt="Log Workout"> | <img src="images/tracker-compare.png" width="600" alt="Last-vs-This Compare"> |
 |:--:|:--:|
